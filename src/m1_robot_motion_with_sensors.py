@@ -112,7 +112,6 @@ def run_test_go_straight_for_inches():
     #   then use this function to test that method.
     # -------------------------------------------------------------------------
 
-
 def run_test_go_straight_until_black():
     """ Tests the   go_straight_until_black   method of SimpleRoseBot. """
     print()
